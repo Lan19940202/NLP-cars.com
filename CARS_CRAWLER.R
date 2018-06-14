@@ -1,11 +1,4 @@
 library('rvest')
-library('tidytext')
-library('dplyr')
-library('tidyr') #separate_rows
-library('ggplot2')
-library('nnet') # multinom
-library('class')
-library('stringr')
 #scrapign data from certain web page
 scraping <- function(url){
   webpage <- read_html(url)
