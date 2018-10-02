@@ -7,3 +7,8 @@ In that project, I created a user interface using Shiny App to visualize my outc
 * Calculate the average star rate score and sentiment score by adding the positive & negative score of each word in each review;
 * Count the TF-IDF score for four features which are most concerned by customers(Service, Price, Handling, Interior);
 * Build a model based on the calculated sentiment score to predict the star.
+
+
+references:
+Web crawler: [Beginner’s Guide on Web Scraping in R (using rvest) with hands-on example](https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/)
+Sentiment analysis: [Text Mining with R](https://www.tidytextmining.com/)
