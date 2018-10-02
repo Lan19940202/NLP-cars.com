@@ -10,5 +10,5 @@ In that project, I created a user interface using Shiny App to visualize my outc
 
 
 references:
-Web crawler: [Beginner’s Guide on Web Scraping in R (using rvest) with hands-on example](https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/)
-Sentiment analysis: [Text Mining with R](https://www.tidytextmining.com/)
+* Web crawler: [Beginner’s Guide on Web Scraping in R (using rvest) with hands-on example](https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/)
+* Sentiment analysis: [Text Mining with R](https://www.tidytextmining.com/)
